@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-light.svg" width="100%" alt="Nykoll Ortiz · CRM Analyst en Cabify Perú">
+<img src="assets/header-light.svg" width="100%" alt="Nykoll Ortiz · CRM Specialist">
 
 <br>
 
@@ -29,7 +29,7 @@ Vengo de agencias multimarca, donde armé CRM en HubSpot y dashboards en Power B
 
 <br>
 
-I'm a **CRM Analyst at Cabify Peru**, based in Lima. I design and measure multichannel lifecycle campaigns in Braze for riders and drivers, test every campaign against a control group, and build AI agents (Claude + MCP) that help me draft, review and monitor campaigns, always with a human check before anything ships.
+I'm a **CRM Specialist** based in Lima, currently working on CRM at Cabify Peru. I design and measure multichannel lifecycle campaigns in Braze for riders and drivers, test every campaign against a control group, and build AI agents (Claude + MCP) that help me draft, review and monitor campaigns, always with a human check before anything ships.
 
 </details>
 
