@@ -24,10 +24,6 @@ Vengo de agencias multimarca, donde armé CRM en HubSpot y dashboards en Power B
 | 鯉 | [**maskai-ia.github.io**](https://github.com/Maskai-ia/maskai-ia.github.io) | Mi web: un CV de una sola pantalla con un estanque koi interactivo. Dale de comer a los peces. |
 | ✦ | [**maskai**](https://github.com/Maskai-ia/maskai) | Reportes de IA aplicada al CRM y al marketing, explicados para no técnicos: MCP, tutores socráticos con IA y más. |
 
-### Herramientas
-
-<img src="assets/ticker-light.svg" width="100%" alt="Braze, push, in-app, email, WhatsApp, SQL, HubSpot, Tableau, Power BI, Claude + MCP, Figma">
-
 <details>
 <summary><b>In English</b></summary>
 
